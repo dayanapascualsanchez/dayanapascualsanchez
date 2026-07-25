@@ -76,11 +76,5 @@ Git • GitHub • VS Code • IntelliJ • PyCharm • MATLAB
 
 ---
 
-## How to Reach Me
-* LinkedIn: *https://www.linkedin.com/in/dayana-pascual-sanchez*
-* Email: *dayanapascualsanchez@gmail.com*
-
----
-
 ## ⚡ Fun Fact
 I'm a first-generation college student who loves mentoring students interested in STEM!
