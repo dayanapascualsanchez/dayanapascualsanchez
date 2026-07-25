@@ -1,4 +1,4 @@
-# Hi, I'm Dayana 😼
+# Hi! I'm Dayana :D
 
 Computer Science student at **UC Berkeley** (B.A. Computer Science, Expected May 2028)
 
